@@ -104,6 +104,13 @@ main{
     margin: 0 auto;
 }
 
+.caja-productos{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+
+
 form{
     margin: 40px 0;
 } 
